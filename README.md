@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi, I'm Swarup Chakraborty 👋
-<br><br> ### Aspiring Data Analyst | SQL • Python • Business Intelligence • Data Engineering<br><br>I transform raw data into meaningful insights and business-driven solutions. Passionate about uncovering patterns, solving real-world business problems, and building end-to-end data analytics projects that drive informed decision-making.<br><br>My work revolves around **SQL, Python, Data Visualization, Statistical Analysis, and ETL Pipelines**, with a growing focus on cloud-based data engineering and scalable analytics solutions.<br><br>**What I bring to the table:**<br>- 📊 Data Analysis & Exploratory Data Analysis (EDA)<br>- 🐍 Python, Pandas, NumPy & Data Visualization<br>- 🗄️ SQL, Advanced Queries & Database Management<br>- 📈 Business Intelligence & Dashboard Development<br>- ⚙️ ETL Pipelines, Apache Airflow & Google Cloud Platform<br>- 💡 Business Problem-Solving & Data-Driven Decision Making<br><br>I'm continuously building, experimenting, and refining my skills through practical projects and real-world datasets.<br><br>**Turning data into insights. Insights into decisions. Decisions into impact.**
+<br> ### Aspiring Data Analyst | SQL • Python • Business Intelligence • Data Engineering<br>I transform raw data into meaningful insights and business-driven solutions. Passionate about uncovering patterns, solving real-world business problems, and building end-to-end data analytics projects that drive informed decision-making.<br><br>My work revolves around **SQL, Python, Data Visualization, Statistical Analysis, and ETL Pipelines**, with a growing focus on cloud-based data engineering and scalable analytics solutions.<br><br>**What I bring to the table:**<br>- 📊 Data Analysis & Exploratory Data Analysis (EDA)<br>- 🐍 Python, Pandas, NumPy & Data Visualization<br>- 🗄️ SQL, Advanced Queries & Database Management<br>- 📈 Business Intelligence & Dashboard Development<br>- ⚙️ ETL Pipelines, Apache Airflow & Google Cloud Platform<br>- 💡 Business Problem-Solving & Data-Driven Decision Making<br><br>I'm continuously building, experimenting, and refining my skills through practical projects and real-world datasets.<br><br>**Turning data into insights. Insights into decisions. Decisions into impact.**
 
 
 ## 🌐 Socials:
@@ -16,4 +16,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=swarupchakraborty467&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
